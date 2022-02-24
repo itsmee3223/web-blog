@@ -1,4 +1,8 @@
-# Next.js + Tailwind CSS Example
+# CMS WEB Blog Using nextJS & GraphQL
+- Full vidio of tutorial how to build it: https://www.youtube.com/watch?v=HYv55DhgTuA
+- Repositoreis: https://github.com/adrianhajdin/project_graphql_blog
+
+## Next.js + Tailwind CSS Example
 
 This example shows how to use [Tailwind CSS](https://tailwindcss.com/) [(v3.0)](https://tailwindcss.com/blog/tailwindcss-v3) with Next.js. It follows the steps outlined in the official [Tailwind docs](https://tailwindcss.com/docs/guides/nextjs).
 
